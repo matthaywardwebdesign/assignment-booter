@@ -1,0 +1,17 @@
+{
+  "name": "assignment-booter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@root/walk": "^1.1.0",
+    "signale": "^1.4.0",
+    "unzipper": "^0.11.6"
+  }
+}
